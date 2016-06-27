@@ -22,6 +22,4 @@ contact info
 <span style="color:blue">Instagram </span> https://instagram.com/sachinvettithanam/
 
 
-(code) with <span style="color:red">(love)</span>
-
-
+(code) with <span style="color:red">(love)</span> 
