@@ -1,10 +1,29 @@
 <span id="a">vetti@bash</span>:<span id="b">~</span><span id="c">$</span> cat sachin.txt<br/><br/>
-Hi, I'm Sachin Philip Mathew.
-I Design Develop Deploy awesome things for Web.
+Hello , I'm Sachin Philip Mathew.
+I Design 
+  Develop 
+  Deploy awesome things for Web.
 
-<span style="color:grey">------------------------------------------------</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="color:grey">----------------------------</span>
 contact info
-<span>------------------------------------------------<span>
+<span style="color:grey">----------------------------</span>
 
-<p>Email : me(at)imsach(dot)in </p>
+<span style="color:blue">Email </span> me(at)imsach(dot)in
+<span style="color:blue">Github </span> https://github.com/sachinvettithanam/
+<span style="color:blue">Linkedin </span> https://in.linkedin.com/in/sachinphilip/
+<span style="color:blue">Instagram </span> https://instagram.com/sachinvettithanam/
+
 
