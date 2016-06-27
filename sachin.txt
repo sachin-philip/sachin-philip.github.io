@@ -16,9 +16,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 contact info
 <span style="color:grey">----------------------------</span>
 
-<span style="color:blue">Email </span> me(at)imsach(dot)in
+<span style="color:blue">Email </span> me (at) imsach (dot) in
 <span style="color:blue">Github </span> https://github.com/sachinvettithanam/
 <span style="color:blue">Linkedin </span> https://in.linkedin.com/in/sachinphilip/
 <span style="color:blue">Instagram </span> https://instagram.com/sachinvettithanam/
+
+
+(code) with <span style="color:red">(love)</span>
 
 
