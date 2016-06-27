@@ -2,9 +2,9 @@
 Hi, I'm Sachin Philip Mathew.
 I Design Develop Deploy awesome things for Web.
 
-------------------------------------------------
-Contact
-------------------------------------------------
+<span style="color:grey">------------------------------------------------</span>
+contact info
+<span>------------------------------------------------<span>
 
-<p>Email</p> me(at)imsach(dot)in
+<p>Email : me(at)imsach(dot)in </p>
 
