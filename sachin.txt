@@ -1,19 +1,14 @@
-<span id="a">vetti@bash</span>:<span id="b">~</span><span id="c">$</span> cat sachin.txt<br/><br/>
-Hello , I'm Sachin Philip Mathew.
-I Design 
-  Develop 
-  Deploy awesome things for Web.
+<span style="color:grey">Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-48-generic x86_64)
+  	257 packages can be updated.
+	153 updates are security updates.
 
+	Last login: Day R from 127.0.0.1</span>
+<span id="a">root@bash</span>:<span id="b">~</span><span id="c">$</span> cat sachin.txt<br/>
+Hello , I'm Sachin Philip Mathew and you can call me vetti.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-
-
-
-
-
-
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
 
