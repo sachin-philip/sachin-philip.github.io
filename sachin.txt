@@ -1,4 +1,10 @@
-<span id="a">vetti@mac-osx</span>:<span id="b">~</span><span id="c">$</span> cat sachin.txt<br/><br/>
+<span id="a">vetti@bash</span>:<span id="b">~</span><span id="c">$</span> cat sachin.txt<br/><br/>
 Hi, I'm Sachin Philip Mathew.
-<br>
-I design develop deploy awesome things on web.
+I Design Develop Deploy awesome things for Web.
+
+------------------------------------------------
+Contact
+------------------------------------------------
+
+<p>Email</p> me(at)imsach(dot)in
+
