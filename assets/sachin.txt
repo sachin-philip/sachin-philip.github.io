@@ -20,6 +20,7 @@ contact info
 <span style="color:blue">Github </span> https://github.com/sachinvettithanam/
 <span style="color:blue">Linkedin </span> https://in.linkedin.com/in/sachinphilip/
 <span style="color:blue">Instagram </span> https://instagram.com/sachinvettithanam/
+<span style="color:blue">Twitter </span> twitter.com/sachin_philip/
 
 
 (code) with <span style="color:red">(love)</span>
