@@ -1,4 +1,4 @@
-<span style="color:grey">Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-48-generic x86_64)
+<span style="color:grey">Welcome to Ubuntu 16.04.2 LTS (GNU/Linux 3.13.0-48-generic x86_64)
   	257 packages can be updated.
 	153 updates are security updates.
 
