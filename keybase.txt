@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vetti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sachinvettithanam.github.io
+  * I am vetti (https://keybase.io/vetti) on keybase.
+  * I have a public key with fingerprint 6D7B 1643 8D62 84CA 508C  58D8 0DBB 5EBB 2374 CA10
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010103328d0af9156a5c86e45b48989edaceb58c1b92d6125b5d83debe2f1af4d3ec0a",
+            "fingerprint": "6d7b16438d6284ca508c58d80dbb5ebb2374ca10",
+            "host": "keybase.io",
+            "key_id": "0dbb5ebb2374ca10",
+            "kid": "010103328d0af9156a5c86e45b48989edaceb58c1b92d6125b5d83debe2f1af4d3ec0a",
+            "uid": "a03bc221953a4651654b253defdf6919",
+            "username": "vetti"
+        },
+        "service": {
+            "hostname": "sachinvettithanam.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481565308,
+    "expire_in": 157680000,
+    "prev": "ca9b435898b49a5c84a8c9dbf8493cf6c84fd6acc274aac1724eaadc137ec0d2",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBRRGN7tikuSXewmaYzZg2wytzM7s0QIgYSU0dXownBus07qzDo7
+7mZeKoKoF+3yVFGJpGJYSsFqdi+DogLJKKLCjA2CHnzoImRlZ8yeeu2ch3POd77/
+O//3cfrTp/oC/vt9GQ8uPNu5xf/47oVq3/aSVF0th2xSw4VruXI6sdAKQmOuXm4S
+LszxApuSJKqEh4YmAAUCrCpUBkhWNVWjBGKKgIoFpIlEEUSAAFElQhEVDQEaMpEo
+5iEX5AzTilAn6piWy2QVEkKCIksqUURVxhDwKgYqUXmCEKAIiVKIoQLPCsvsmFfB
+mkMwRgtMm2HsoP9p71/+f+67ekIO8hLCoihoQIKyAgQFyEgEjG8QQ9EEzSPGqGPB
+SsrYceq6Jlcf5BgUNzH1UvVsTF7HIC4zrQmSWwYZWBBhm2r0x1vUsV0b2xWMWOa6
+0VjYE3Jrol5lgiJ9UlNHpkVYpqwiTp2YaVtcWGBM7JreI4KsMtNA4tUgR/dGTYfq
+pscAIUXl2fDeoXEmiaGGZAmwUJCseSHJUMUaQYYqaxI2FAYYRIEYiyEZQiyERJlC
+SLAghVhCROQ8l1WWzbQl1ieMeAbNiAXdaody9ffu7Jrm8wd8M6ZP8T6bL5CW8fcL
+tn6fOZ74VrIvOXgwhV6fSFf6jjlz8vJ7lmcEPgxeXLeoue5Fy7zR462ji3MGXn1E
+qdxUq3B+NE3ckJrde2JKcnfvippg0/NVn5Y8aWzvODA279dJ7ue2p21nO5qvNNy6
+N6t95fLOZGNmTeKm/3rL0Tfx3KB5NW/uyJcdZ/Rrn9sDXVnJnp6inJGFFX2pNZXF
+xXjRWHZxp/9GV8VP5W2+dHmooeEw0kcGb/fr4+Fl42J3mwyWVtU1nN4+vxBZX7em
+v8x+NLU0uPZU4cDjYfvS8cj+3Wnv9qw3flwpHdyYaDuS8UGXF+y70zy+KfOck+hu
+Gk7auSXx93mbew6tLno4MJa1ZXHh16Hfn2FNLg==
+=mIDR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vetti
+
+==================================================================
