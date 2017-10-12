@@ -17,7 +17,7 @@ contact info
 <span style="color:grey">----------------------------</span>
 
 <span style="color:#3498db">Email </span> me (at) imsach (dot) in
-<span style="color:#3498db">Github </span><a href="https://github.com/sachinvettithanam/" target="_blank"> https://github.com/sachinvettithanam/</a>
+<span style="color:#3498db">Github </span><a href="https://github.com/labtocat/" target="_blank"> https://github.com/sachinvettithanam/</a>
 <span style="color:#3498db">Linkedin </span><a href="https://in.linkedin.com/in/sachinphilip/" target="_blank"> https://in.linkedin.com/in/sachinphilip/</a>
 <span style="color:#3498db">Instagram </span><a href="https://instagram.com/sachinvettithanam/" target="_blank"> https://instagram.com/sachinvettithanam/</a>
 <span style="color:#3498db">Twitter </span><a href="twitter.com/sachin_philip/" target="_blank"> twitter.com/sachin_philip/</a>
