@@ -1,4 +1,4 @@
-<span style="color:grey">Welcome to Ubuntu 17.04 (GNU/Linux 3.13.0-48-generic x86_64)
+<span style="color:grey">Welcome to Ubuntu 17.10 (GNU/Linux 3.13.0-48-generic x86_64)
   	110 packages can be updated.
 	123 updates are security updates.
 
