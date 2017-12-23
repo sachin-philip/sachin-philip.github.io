@@ -8,9 +8,9 @@ Hello , I'm Sachin Philip Mathew and you can call me vetti.
 
 I am a geek. I love computers.I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
-Main area of my expertise are everything related with this side of web. I work as a full-stack develeoper – mainly Python | Javascript and other open source platforms. Would like to know more?
-
 <span style="font-weight:500;color:#4f8fcd">Currently working as Sr.Product Engineer @ FullContact</span>
+
+Main area of my expertise are everything related with this side of web. I work as a full-stack develeoper – mainly Python | Javascript frameworks and other open source libraries. If you have any questions, please don’t hesitate to get in touch with.
 
 <span style="color:grey">----------------------------</span>
 contact info
