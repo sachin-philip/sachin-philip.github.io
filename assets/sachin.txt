@@ -10,7 +10,7 @@ I am a geek. I love computers. I am passionate about everything related to devel
 
 <span style="font-weight:500;color:#4f8fcd">Currently working as Sr.Product Engineer @ FullContact</span>
 
-Main area of my expertise are everything related with this side of web. I work as a full-stack develeoper – mainly Python | Javascript frameworks and other open source libraries. If you have any questions, please don’t hesitate to get in touch with.
+My main area of expertise are everything related with side of web. I work as a full-stack develeoper – mainly Python | Javascript frameworks and other open source libraries. If you have any questions, please don’t hesitate to get in touch with.
 
 <span style="color:grey">----------------------------</span>
 contact info
