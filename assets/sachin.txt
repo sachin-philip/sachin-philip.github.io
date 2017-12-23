@@ -6,7 +6,7 @@
 <span id="a">vetti@labtocat</span>:<span id="b">~</span><span id="c">$</span> cat /usr/bin/sachin.me<br/>
 Hello , I'm Sachin Philip Mathew and you can call me vetti.
 
-I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
+I am a geek. I love computers.I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
