@@ -1,26 +1,27 @@
-<span style="color:grey">Welcome to Ubuntu 17.04 (GNU/Linux 3.13.0-48-generic x86_64)
-  	110 packages can be updated.
-	123 updates are security updates.
+<span style="color:grey">Welcome to Ubuntu 16.04.3 LTS (GNU/Linux 4.4.0-104-generic x86_64)
+  	0 packages can be updated.
+	0 updates are security updates.
 
 	Last login: Day R from 127.0.0.1</span>
 <span id="a">vetti@labtocat</span>:<span id="b">~</span><span id="c">$</span> cat /usr/bin/sachin.me<br/>
 Hello , I'm Sachin Philip Mathew and you can call me vetti.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a geek. I love computers. I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<span style="font-weight:500;color:#4f8fcd">Currently working as Sr.Product Engineer @ FullContact</span>
 
-
+My main area of expertise are everything related with side of web. I work as a full-stack develeoper – mainly Python/Javascript environment and other open source libraries like (angular, react, webpack etc..). Also works with database systems like (redis, elasticsearch, mysql etc..). If you have any questions on my area of expertise? please don’t hesitate to get in touch with.
 
 <span style="color:grey">----------------------------</span>
 contact info
 <span style="color:grey">----------------------------</span>
 
-<span style="color:blue">Email </span> me (at) imsach (dot) in
-<span style="color:blue">Github </span><a href="https://github.com/sachinvettithanam/" target="_blank"> https://github.com/sachinvettithanam/</a>
-<span style="color:blue">Linkedin </span><a href="https://in.linkedin.com/in/sachinphilip/" target="_blank"> https://in.linkedin.com/in/sachinphilip/</a>
-<span style="color:blue">Instagram </span><a href="https://instagram.com/sachinvettithanam/" target="_blank"> https://instagram.com/sachinvettithanam/</a>
-<span style="color:blue">Twitter </span><a href="twitter.com/sachin_philip/" target="_blank"> twitter.com/sachin_philip/</a>
+<span style="color:#3498db"><i class="fa fa-envelope" aria-hidden="true"></i> Email </span> me (at) imsach (dot) in
+<span style="color:#3498db"><i class="fa fa-key" aria-hidden="true"></i> Keybase </span><a href="https://keybase.io/labtocat" target="_blank"> https://keybase.io/labtocat</a>
+<span style="color:#3498db"><i class="fa fa-github" aria-hidden="true"></i> Github </span><a href="https://github.com/labtocat/" target="_blank"> https://github.com/labtocat/</a>
+<span style="color:#3498db"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin </span><a href="https://in.linkedin.com/in/sachinphilip/" target="_blank"> https://in.linkedin.com/in/sachinphilip/</a>
+<span style="color:#3498db"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram </span><a href="https://instagram.com/labtocat/" target="_blank"> https://instagram.com/labtocat/</a>
+<span style="color:#3498db"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter </span><a href="twitter.com/sachin_philip/" target="_blank"> twitter.com/sachin_philip/</a>
 
 
 (code) with <span style="color:red">(love)</span>
