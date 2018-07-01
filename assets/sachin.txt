@@ -1,4 +1,4 @@
-<span style="color:grey">Welcome to Ubuntu 16.04.3 LTS (GNU/Linux 4.4.0-104-generic x86_64)
+<span style="color:grey">Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.4.0-104-generic x86_64)
   	0 packages can be updated.
 	0 updates are security updates.
 
