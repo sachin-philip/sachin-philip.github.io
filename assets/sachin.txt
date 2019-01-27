@@ -10,7 +10,7 @@ I am a geek. I love computers. I am passionate about everything related to devel
 
 <span style="font-weight:500;color:#4f8fcd">Currently working as Lead Product Engineer @ Amura Marketing Technologies, Pune</span>
 
-My main area of expertise are everything related with side of web. I work as a full-stack develeoper – mainly Python/Javascript environment and other open source libraries like (angular, react, webpack etc..). Also works with database systems like (redis, elasticsearch, mysql etc..). If you have any questions on my area of expertise? please don’t hesitate to get in touch with.
+My main area of expertise are everything related with side of web. I work as a full-stack develeoper – mainly Python/Javascript environment. My development lifecycle starts from designing, on to architech, develop till it get deployed. I have establised my base on Python for the server side for data analytics/ML, Node when high availability is required. Its all about JavaScript when iot comes to client side, I have expertised my skills with open source libraries like (vuejs, react, , webpack etc..). Also works with database systems like (redis, elasticsearch, mysql etc..). If you have any questions on my area of expertise? please don’t hesitate to get in touch with.
 
 <span style="color:grey">----------------------------</span>
 contact info
