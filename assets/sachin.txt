@@ -4,9 +4,9 @@
 
 	Last login: Day R from 127.0.0.1</span>
 <span id="a">vetti@labtocat</span>:<span id="b">~</span><span id="c">$</span> cat /usr/bin/sachin.me<br/>
-Hello , I'm Sachin Philip Mathew and you can call me vetti.
+Hello, I'm Sachin Philip Mathew and I am a developer advocate.
 
-I am a geek. I love computers. I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
+I love computers. I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
 <span style="font-weight:500;color:#4f8fcd">Currently working as Lead Product Engineer @ Amura Marketing Technologies, Pune</span>
 
