@@ -8,7 +8,7 @@ Hello, I'm Sachin Philip Mathew and I am a developer advocate.
 
 I love computers. I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
-<span style="font-weight:500;color:#4f8fcd">Currently working as FullStack Engineer @ Everreal GmbH, München, Germany</span>
+<span style="font-weight:500;color:#4f8fcd">Currently working as FullStack Engineer @ Everreal GmbH, München</span>
 
 My main area of expertise is everything related to the side of the web. I work as a full-stack developer – mainly Python/Javascript environment. My development lifecycle starts from architecting, on to develop till it gets deployed. I have established my base on Python for the server side for data analytics/ML, Node when high availability is required. Its all about JavaScript when it comes to the client side, I have expertise my skills with open source libraries like Vuejs, React, Svelte, Web-Components etc.. Also works with database systems like (Redis, Elasticsearch, MySQL etc..). If you have any questions about my area of expertise? please don’t hesitate to get in touch with.
 
