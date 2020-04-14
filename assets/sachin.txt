@@ -1,4 +1,4 @@
-<span style="color:grey">Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.4.0-104-generic x86_64)
+<span style="color:grey">Welcome to Ubuntu 20.04.14 LTS (GNU/Linux 4.4.0-104-generic x86_64)
   	0 packages can be updated.
 	0 updates are security updates.
 
@@ -8,7 +8,7 @@ Hello, I'm Sachin Philip Mathew and I am a developer advocate.
 
 I love computers. I am passionate about everything related to development, mostly web. My best assets are my creativity, my feeling with technology and my passion. Unfortunately, I do not have much feeling with marketing and recognising the gaps in the market.
 
-<span style="font-weight:500;color:#4f8fcd">Currently working as Lead Product Engineer @ Amura Marketing Technologies, Pune</span>
+<span style="font-weight:500;color:#4f8fcd">Currently working as FullStack Engineer @ Everreal GmbH, München, Germany</span>
 
 My main area of expertise is everything related to the side of the web. I work as a full-stack developer – mainly Python/Javascript environment. My development lifecycle starts from architecting, on to develop till it gets deployed. I have established my base on Python for the server side for data analytics/ML, Node when high availability is required. Its all about JavaScript when it comes to the client side, I have expertise my skills with open source libraries like Vuejs, React, Svelte, Web-Components etc.. Also works with database systems like (Redis, Elasticsearch, MySQL etc..). If you have any questions about my area of expertise? please don’t hesitate to get in touch with.
 
@@ -18,6 +18,7 @@ contact info
 
 <span style="color:#3498db"><i class="fa fa-envelope" aria-hidden="true"></i> email </span> me (at) imsach (dot) in
 <span style="color:#3498db"><i class="fa fa-github" aria-hidden="true"></i> github </span><a href="https://github.com/labtocat/" target="_blank"> https://github.com/labtocat/</a>
+<span style="color:#3498db"><i class="fa fa-gitlab" aria-hidden="true"></i> gitlab </span><a href="https://gitlab.com/labtocat/" target="_blank"> https://gitlab.com/labtocat/</a>
 <span style="color:#3498db"><i class="devicon-python-plain" aria-hidden="true"></i> pypi </span><a href="https://pypi.org/user/sachinvettithanam/" target="_blank"> https://pypi.org/user/labtocat/</a>
 <span style="color:#3498db"><i class="devicon-nodejs-plain" aria-hidden="true"></i> npmjs </span><a href="https://www.npmjs.com/~labtocat" target="_blank"> https://npmjs.com/~labtocat</a>
 <span style="color:#3498db"><i class="fa fa-key" aria-hidden="true"></i> keybase </span><a href="https://keybase.io/labtocat" target="_blank"> https://keybase.io/labtocat</a>
