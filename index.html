@@ -20,8 +20,22 @@
   <script src="https://kit.fontawesome.com/1a742a53ff.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
-
-<body>
+<style>
+  .dark-mode {
+    background-color: #12181b;
+    color: #b1becd;
+  }
+  .theme-switcher {
+    float: right;
+    margin: 2%;
+    cursor: pointer;
+  }
+</style>
+<body id='section-container'>
+  <div class="theme-switcher" onclick="switchTheme()">
+    <i class="fas fa-moon fa-2x" id='theme-dark'></i>
+    <i class="fas fa-sun fa-2x" id='theme-light'></i>
+  </div>
   <section class="section is-medium" style="font-family: poppins">
     <div class="container">
       <div class="columns is-centered">
@@ -32,7 +46,7 @@
           <div style="font-weight: 600" class="is-size-3 is-hidden-desktop">
             Hello from Sachin 👋🏽
           </div>
-          <div class="is-size-5">
+          <div class="is-size-5" >
             lives in 📍 Kottayam,
             <a target="_blank" href="https://en.wikipedia.org/wiki/Kerala" rel="noreferrer">Kerala</a> 🇮🇳
           </div>
@@ -91,5 +105,22 @@
     </div>
   </section>
 </body>
-
+<script>
+document.getElementById('theme-light').style.display = 'none'
+function switchTheme () {
+  var isDark = localStorage.getItem('spTheme') || false;
+  var container =  document.getElementById('section-container')
+  if (isDark === 'false') {
+    container.classList.add('dark-mode')
+    document.getElementById('theme-light').style.display = 'block'
+    document.getElementById('theme-dark').style.display = 'none'
+    localStorage.setItem('spTheme', true)
+  } else {
+    container.classList.remove('dark-mode')
+    document.getElementById('theme-dark').style.display = 'block'
+    document.getElementById('theme-light').style.display = 'none'
+    localStorage.setItem('spTheme', false)
+  }
+}
+</script>
 </html>
