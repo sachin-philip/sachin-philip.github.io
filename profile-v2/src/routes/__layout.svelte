@@ -35,13 +35,13 @@
 </svelte:head>
 
 <div class={$theme === 'dark' ? 'dark' : ''} style="font-family: poppins">
-	<div class="h-screen mx-auto bg-white dark:bg-slate-800 dark:text-white text-slate-800">
-		<div class="flex flex-row-reverse mx-auto">
-			<div>
+	<div class="bg-white text-gray-800 dark:bg-slate-800 dark:text-gray-300">
+		<div class="relative cursor-pointer">
+			<div class="absolute h-14 w-14 right-0 top-4">
 				{#if $theme === 'dark'}
-					<i class="fas fa-moon fa-2x" on:click={() => theme.set('light')} />
+					<i class="fas fa-sun fa-2x" on:click={() => theme.set('light')} />
 				{:else}
-					<i class="fas fa-sun fa-2x" on:click={() => theme.set('dark')} />
+					<i class="fas fa-moon fa-2x" on:click={() => theme.set('dark')} />
 				{/if}
 			</div>
 		</div>
