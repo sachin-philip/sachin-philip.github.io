@@ -1,6 +1,6 @@
-<div class="grid place-items-center h-screen">
+<div class="grid place-items-center sm:h-screen h-full">
 	<div class="sm:container sm:mx-auto px-4">
-		<p class="sm:text-5xl font-bold mt-6 sm:mt-0 text-4xl">Hello from Sachin 👋🏽</p>
+		<p class="sm:text-5xl font-bold mt-16 sm:mt-0 text-4xl">Hello from Sachin 👋🏽</p>
 		<div class="text-slate-500 dark:text-slate-400">
 			lives in 📍
 			<a
