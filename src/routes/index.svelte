@@ -48,9 +48,9 @@
 			<a
 				class="cursor-pointer underline underline-offset-2 decoration-2 decoration-orange-300"
 				target="_blank"
-				href="https://g.co/kgs/4g13UG"
+				href="https://www.goodreads.com/book/show/39995046-ikigai"
 				rel="noreferrer">
-				Zero to One
+				Ikigai
 			</a>
 			being my current favourite.
 			<br />
