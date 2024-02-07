@@ -22,7 +22,7 @@
 		</div>
 		<br />
 		<div class="text-slate-600 dark:text-slate-300 mt-2 text-lg font-light">
-			I'm a husband, developer advocate and polyglot engineer working with anything I can get my
+			I'm a husband, developer advocate, drone pilot and polyglot engineer working with anything I can get my
 			hands on, with a specific taste towards web 🌎. My aim is to build experiences that make
 			people's lives simpler. Having worked with Javascript and Python eco-system, I have currently
 			moved on to explore the green pastures of
