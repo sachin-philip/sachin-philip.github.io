@@ -3,7 +3,7 @@
 	"version": "0.0.2",
 	"scripts": {
 		"dev": "svelte-kit dev",
-		"build": "svelte-kit build",
+		"build": "svelte-kit build --output public",
 		"deploy": "node ./gh-pages.js",
 		"package": "svelte-kit package",
 		"preview": "svelte-kit preview",
